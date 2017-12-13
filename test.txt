@@ -1,1 +1,4 @@
 test git first time via cmd
+
+
+It worked... now trying to commit

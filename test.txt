@@ -6,3 +6,6 @@ It worked... now trying to commit
 It worked... now trying to make a new branch
 
 Now trying to pull from github after merge
+
+
+ALL GOOD
